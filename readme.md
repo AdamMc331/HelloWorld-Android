@@ -10,4 +10,4 @@ Locations View
 ---
 The main Activity shows both a map of all five hello world locations as well as a list of them underneath. If permission for locations has been granted, the list will be sorted by distance from the user. Otherwise, it is sorted alphabetically.
 
-<img src="http://imgur.com/zQIDO8l" width="400" height="640"/>
+<img src="http://i.imgur.com/zQIDO8l.png" width="400" height="640"/>
