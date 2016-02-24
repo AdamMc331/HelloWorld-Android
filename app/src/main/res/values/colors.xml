@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Looking at the website and logo, I chose the hello world blue for the primary color.
+        Using Paletton, I picked a darker hex code for the status bar.
+         I chose the hello world orange for our accent color. -->
+    <color name="colorPrimary">@color/hello_blue</color>
+    <color name="colorPrimaryDark">#006494</color>
+    <color name="colorAccent">@color/hello_orange</color>
+
+    <!-- Hello World colors -->
+    <color name="hello_blue">#0088C7</color>
+    <color name="hello_orange">#FF500E</color>
+    <color name="hello_light_gray">#A7A7A7</color>
+    <color name="hello_dark_gray">#555555</color>
+</resources>
