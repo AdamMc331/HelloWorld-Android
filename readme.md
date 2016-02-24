@@ -17,3 +17,7 @@ Detail View
 Whenever an office item is clicked from the ListView on the main screen, a DialogFragment appears that has an image, detailed information, and actions to navigate to or call the location.
 
 <img src="http://i.imgur.com/BM74qZB.png" width="400" height="640"/>
+
+A gif of the call button in action can be seen here:
+
+<img src="http://i.imgur.com/PCWPySe.gif" width="400" height="640"/>
