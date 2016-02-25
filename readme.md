@@ -28,3 +28,5 @@ Ways this could be further enhanced if I had more time are:
 - A SyncAdapter that updated the database at a regularly scheduled interval.
 - Testing of the ContentProvider, and other unit tests.
 - A faster way to load the office image on the detail fragment, instead of using an AsyncTask.
+- An option to switch between km and mi.
+- Verify user's location before navigating
