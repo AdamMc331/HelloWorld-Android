@@ -24,7 +24,7 @@ A gif of the call button in action can be seen here:
 
 Enhancements
 ---
-Ways this could be further include if I had more time are:
+Ways this could be further enhanced if I had more time are:
 - A SyncAdapter that updated the database at a regularly scheduled interval.
 - Testing of the ContentProvider, and other unit tests.
 - A faster way to load the office image on the detail fragment, instead of using an AsyncTask.
