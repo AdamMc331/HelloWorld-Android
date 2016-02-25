@@ -21,3 +21,10 @@ Whenever an office item is clicked from the ListView on the main screen, a Dialo
 A gif of the call button in action can be seen here:
 
 <img src="http://i.imgur.com/PCWPySe.gif" width="400" height="640"/>
+
+Enhancements
+---
+Ways this could be further include if I had more time are:
+- A SyncAdapter that updated the database at a regularly scheduled interval.
+- Testing of the ContentProvider, and other unit tests.
+- A faster way to load the office image on the detail fragment, instead of using an AsyncTask.
