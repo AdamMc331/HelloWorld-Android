@@ -4,7 +4,7 @@ This application pulls and displays the various Hello World locations across the
 
 Usage
 ---
-Before this app can be used, the developer must receive a Google Maps API key and change it in the `app/src/debug/res/values/google_maps_api.xml` file, or else run the .apk file found in `app/build/outputs/apk/` folder.
+Before this app can be used, the developer must receive a Google Maps API key and put it in a string resource, or else run the .apk file found in `app/build/outputs/apk/` folder.
 
 Locations View
 ---
