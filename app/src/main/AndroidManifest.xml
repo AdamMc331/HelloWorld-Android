@@ -47,6 +47,15 @@
         <!-- Services -->
         <service android:name=".service.LocationService" />
 
+        <activity
+            android:name=".activities.DetailActivity"
+            android:label="@string/title_activity_detail"
+            android:parentActivityName=".activities.MapListActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.adammcneilly.helloworld.activities.MapListActivity" />
+        </activity>
     </application>
 
 </manifest>

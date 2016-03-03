@@ -3,4 +3,6 @@
     <string name="location_image">Location Image</string>
     <string name="navigate">Navigate</string>
     <string name="call">Call</string>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="action_settings">Settings</string>
 </resources>
